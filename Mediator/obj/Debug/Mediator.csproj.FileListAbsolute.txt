@@ -1,1 +1,0 @@
-D:\Work\C#\DesignPatternExamples\Mediator\bin\Debug\Mediator.exe.config
