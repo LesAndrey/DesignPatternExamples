@@ -10,10 +10,12 @@ namespace Mediator
             var flight1 = new An148("An148-KIE", trafficControleTower);
             var flight2 = new An2("An2-LWO", trafficControleTower);
             var flight3 = new Tu144("Tu144-ALM", trafficControleTower);
+            var flight4 = new Waszka("Waszka-WAR",trafficControleTower);
 
             flight1.Altitude=1000;
             flight2.Altitude = 1000;
             flight3.Altitude = 1000;
+            flight4.Altitude = 1000;
             Console.WriteLine("Press any key...");
             Console.ReadKey();
         }
